@@ -1,0 +1,13 @@
+{
+  "name": "tasks_18",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.1.3",
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
